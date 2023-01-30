@@ -1,0 +1,36 @@
+.Experto-logo {
+  width: 100vmin;
+  height: 50vmin;
+  pointer-events: none;
+}
+
+
+.Soyexperto{
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+form {
+	display: flex;
+	flex-direction: column;
+  justify-content: center;
+}
+
+form input {
+	background-color:rgba(217, 217, 217, 1);
+	border: none;
+	font-size: 14px;
+	box-sizing: border-box;
+}
+
+form textarea {
+	background-color: rgba(217, 217, 217, 1);
+	border: none;
+	font-size: 14px;
+	box-sizing: border-box;
+}

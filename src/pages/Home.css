@@ -1,0 +1,15 @@
+.App-logo {
+  width: 80vmin;
+  height: 30vmin;
+  pointer-events: none;
+}
+
+body{
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
